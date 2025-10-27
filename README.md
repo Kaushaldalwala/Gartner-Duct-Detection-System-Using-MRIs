@@ -38,10 +38,3 @@ Production-grade system designed for deployment in hospitals, diagnostic centers
 
 ### 📊 **Comprehensive Analysis**
 Detects multiple tissue abnormality patterns beyond Gartner ducts, providing holistic diagnostic support.
-
-### 🔒 **Privacy-First**
-Built with medical data security and HIPAA compliance considerations at its core.
-
----
-
-## 🏗️ System Architecture
