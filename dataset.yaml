@@ -1,0 +1,6 @@
+path: E:/gartner_duct/gartner_duct_dataset/Axial
+train: New_axial/train/images
+val: New_axial/val/images
+
+nc: 1
+names: ["1"]
